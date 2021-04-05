@@ -6,4 +6,4 @@
 - HTML, CSS, JavaScript, C#, React, & so very much more 
 
 - :performing_arts: I have a theatre degree
-- :seedling: I love animals
+- :sloth: I love animals
