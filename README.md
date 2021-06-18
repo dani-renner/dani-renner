@@ -1,7 +1,7 @@
 ### Hello all! 👋
 
 
-- :school_satchel: I’m currently a full-time student at Epicodus.
+- :space_invader: I’m currently a full-time developer at Hubb.
 - 🌱 I’m currently learning full-stack software development!
 - :books: HTML, CSS, JavaScript, C#, React, & so very much more 
 
